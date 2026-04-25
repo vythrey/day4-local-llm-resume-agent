@@ -134,14 +134,3 @@ If you see model-related errors:
 ```bash
 ollama pull llama3.2:1b
 ```
-
----
-
-### Issue 5: Earlier projects worked but this failed
-Day 1–3 projects used only built-in Python features.
-
-This project uses:
-- External library (ollama)
-- Local model server
-
-So additional setup is required.
